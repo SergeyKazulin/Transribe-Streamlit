@@ -1,0 +1,7 @@
+matplotlib==3.4.3
+librosa==0.8.1
+streamlit==1.0.0
+python_docx==0.8.11
+SpeechRecognition==3.8.1
+docx==0.2.4
+ipython==7.28.0
